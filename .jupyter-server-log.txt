@@ -236,3 +236,46 @@ TermSocket.open: Opened 1
 [I 15:58:13.833 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 16:10:08.033 NotebookApp] Notebook regrex_script_r/linearModel_r.ipynb is not trusted
+[I 16:10:09.224 NotebookApp] Kernel started: c4328274-0b90-4f30-a252-f2308b27a8b8, name: ir
+[I 16:10:10.982 NotebookApp] Adapting from protocol version 5.0 (kernel c4328274-0b90-4f30-a252-f2308b27a8b8) to 5.3 (client).
+[I 16:10:32.092 NotebookApp] Saving file at /regrex_script_r/linearModel_r.ipynb
+[I 16:10:48.183 NotebookApp] Uploading file to /regrex_script_r/linearModel_r.r
+[I 16:12:47.288 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 16:18:15.246 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 16:19:05.961 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[W 16:21:17.913 NotebookApp] Culling 'idle' kernel 'ir' (c4328274-0b90-4f30-a252-f2308b27a8b8) with 1 connections due to 655 seconds of inactivity.
+[I 16:21:17.914 NotebookApp] Kernel shutdown: c4328274-0b90-4f30-a252-f2308b27a8b8
+[I 16:21:33.502 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 16:22:14.076 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 16:28:42.076 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 16:30:32.127 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:05:48.570 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:06:25.336 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:23:49.787 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:29:27.059 NotebookApp] Kernel started: 30814cbf-5033-4550-b9aa-cbc6491b80b3, name: ir
+[I 17:29:28.054 NotebookApp] Adapting from protocol version 5.0 (kernel 30814cbf-5033-4550-b9aa-cbc6491b80b3) to 5.3 (client).
+[I 17:30:21.869 NotebookApp] Saving file at /regrex_script_r/linearModel_r.ipynb
+[I 17:30:49.234 NotebookApp] Uploading file to /regrex_script_r/linearModel_r (1).r
+[I 17:32:24.103 NotebookApp] Saving file at /regrex_script_r/linearModel_r (1).r
+[I 17:35:39.402 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:35:43.448 NotebookApp] Starting buffering for 30814cbf-5033-4550-b9aa-cbc6491b80b3:e4ae68f4e73b4a898e424125e46e74a3
+[I 17:35:59.807 NotebookApp] Adapting from protocol version 5.0 (kernel 30814cbf-5033-4550-b9aa-cbc6491b80b3) to 5.3 (client).
+[I 17:36:04.495 NotebookApp] Starting buffering for 30814cbf-5033-4550-b9aa-cbc6491b80b3:eecc2a1423df4d0d82482ec2b3ca0f25
+[I 17:36:12.691 NotebookApp] Kernel shutdown: 30814cbf-5033-4550-b9aa-cbc6491b80b3
+[W 17:40:04.074 NotebookApp] delete /regrex_script_r/linearModel_r_2.r
+[I 17:40:42.691 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:51:42.187 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:55:17.349 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[I 17:56:03.068 NotebookApp] Saving file at /regrex_script_r/linearModel_r.r
+[W 18:00:51.207 NotebookApp] delete /regrex_script_r/linreg.png
+[W 18:00:51.209 NotebookApp] delete /regrex_script_r/Rplots.pdf
+[W 18:24:01.435 NotebookApp] Notebook linearModel_r.ipynb is not trusted
+[I 18:24:01.749 NotebookApp] Kernel started: 9ef088b0-1573-408b-9416-068bfabe6aa6, name: ir
+[I 18:24:02.794 NotebookApp] Adapting from protocol version 5.0 (kernel 9ef088b0-1573-408b-9416-068bfabe6aa6) to 5.3 (client).
+[I 18:24:07.461 NotebookApp] Starting buffering for 9ef088b0-1573-408b-9416-068bfabe6aa6:714bc3babba44f3a83eee781fa50692d
+[I 18:24:25.302 NotebookApp] Kernel shutdown: 9ef088b0-1573-408b-9416-068bfabe6aa6
+[W 18:24:37.535 NotebookApp] delete /regrex_script_r
+[I 18:24:42.428 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
